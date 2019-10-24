@@ -1,1 +1,8 @@
-# Start learning Java
+# learn Java
+**todo list**
+  - [ ] Java 
+  - [ ] Spring
+  - [ ] Maven
+  - [ ] Mysql
+  - [ ] Redis
+  - [ ] Mybatis
