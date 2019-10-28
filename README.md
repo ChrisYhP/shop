@@ -1,6 +1,6 @@
 # learn Java
 **todo list**
-  - [ ] Java 
+  - [x] Java 
   - [ ] Spring
   - [ ] Maven
   - [ ] Mysql
